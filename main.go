@@ -1,4 +1,4 @@
-package main
+package gotracert
 
 import (
 	ping "github.com/t0stbrot/go-ping"
