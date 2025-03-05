@@ -1,7 +1,7 @@
 package gotracert
 
 import (
-	ping "github.com/t0stbrot/go-ping@v0.0.5"
+	ping "github.com/t0stbrot/go-ping"
 )
 
 type HopEntry struct {
